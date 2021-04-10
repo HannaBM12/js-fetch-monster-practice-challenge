@@ -6005,6 +6005,30 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "",
+      "age": null,
+      "description": "",
+      "id": 1002
+    },
+    {
+      "name": "",
+      "age": null,
+      "description": "",
+      "id": 1003
+    },
+    {
+      "name": "Crocodiles",
+      "age": "25",
+      "description": "Of all the species in the world, the largest—and most dangerous—is the saltwater crocodile. These ferocious killers can grow up to 23 feet in length, weigh more than a ton, and are known to kill hundreds each year, with crocodiles as a whole responsible for more human fatalities annually than sharks.",
+      "id": 1004
+    },
+    {
+      "name": "Typhoeus",
+      "age": "256",
+      "description": "was a monstrous serpentine giant and one of the deadliest creatures in Greek mythology. According to Hesiod, Typhon was the son of Gaia and Tartarus.",
+      "id": 1005
     }
   ]
 }
